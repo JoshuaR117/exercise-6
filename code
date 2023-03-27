@@ -1,0 +1,95 @@
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>Car Dealerships in Miami, Florida</title>
+  <style>
+  body {
+    color: #000000;
+    background-color: #e1e1e1;
+    font-family: Arial, sans-serif;
+    font-size:14px;
+    -moz-transition-property: text-shadow;
+    -moz-transition-duration: 4s;
+    -webkit-transition-property: text-shadow;
+    -webkit-transition-duration: 4s;
+    text-shadow: none;
+  }
+  body.blurry {
+    -moz-transition-property: text-shadow;
+    -moz-transition-duration: 4s;
+    -webkit-transition-property: text-shadow;
+    -webkit-transition-duration: 4s;
+    text-shadow: #000 0px 0px 25px;
+  }
+  a {
+    color: #ff7f50;
+  }
+  .textColumn, .linksColumn {
+    padding: 2em;
+  }
+  .textColumn {
+    position: absolute;
+    top: 0px;
+    right: 50%;
+    bottom: 0px;
+    left: 0px;
+
+    text-align: right;
+    padding-top: 11em;
+    background-color: #ff7f50;
+    background-image: -moz-radial-gradient(left top, circle, #ffa07a 0%, #ff7f50 60%);
+    background-image: -webkit-gradient(radial, 0 0, 1, 0 0, 500, from(#ffa07a), to(#ff7f50));
+  }
+  .textColumn p {
+    width: 75%;
+    float:right;
+  }
+  .linksColumn {
+    position: absolute;
+    top:0px;
+    right: 0px;
+    bottom: 0px;
+    left: 50%;
+
+    background-color: #e1e1e1;
+  }
+
+  h1 {
+    font-size: 500%;
+    font-weight: normal;
+    margin-bottom: 0em;
+  }
+  h2 {
+    font-size: 200%;
+    font-weight: normal;
+    margin-bottom: 0em;
+  }
+  ul {
+    padding-left: 1em;
+    margin: 0px;
+  }
+  li {
+    margin: 1em 0em;
+  }
+
+  </style>
+</head>
+<body id="sample" data-new-gr-c-s-check-loaded="8.905.0" data-gr-ext-installed="">
+  <div class="textColumn">
+    <h1>ABC Dealership</h1>
+    <p>A really exotic, friendly, and professional dealership for all types of vehicles.</p>
+    <img src="evo for sale.jpg" alt="evo 8 in front of garage" width="500" height="300">
+  </div>
+  
+  <div class="linksColumn"> 
+    <h2>Other Popular Dealerships around Miami, Florida</h2>
+    <ul>
+      <li><a href="https://www.xyzmotors.com/">XYZ Motors</a></li>
+      <li><a href="https://www.pqautomall.com/">PQ Automall</a></li>
+      <li><a href="https://www.rstcars.com/">RST Cars</a></li>
+      <li><a href="https://www.efgautodeals.com/">EFG Auto Deals</a></li>
+    </ul>
+    <h2>New Stock At ABC Dealer!</h2>
+    <ul>
+      <li><a href="https://www.abcdealership.com/new-cars/">New Cars</a></li>
+     
